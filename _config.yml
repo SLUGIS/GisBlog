@@ -27,7 +27,7 @@ twitter_username: slugis3400
 github_username:  SLUGIS
 
 # Build settings
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 

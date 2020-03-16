@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Editing in JOSM"
-date:   2020-00-00 14:48:12 -0800
+date:   2020-03-16 14:48:12 -0800
 description: "Provided in this article is an in depth description og JOSM editing tools as techniques to use."
 categories: information
 ---

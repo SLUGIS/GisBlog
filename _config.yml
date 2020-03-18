@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-images: /assets/calfireblock_red.jpg
+
 title: CAL FIRE SLUGIS Blog
 description: >- # this means to ignore newlines until "baseurl:"
   Cal Fire San Luis Obispo Unit GIS Blog. Provided on here is information about the county as well as special tutorials for the public.

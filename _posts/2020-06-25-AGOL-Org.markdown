@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AGOL Organization"
+date:   2020-06-25 14:48:12 -0800
+description: "ArcGIS Online differs in organization from ArcMap and ArcPro, this shows how to use the SLOCoFD account."
+categories: information
+---
+ArcGIS Online differs in organization from ArcMap and ArcPro, this shows how to use the SLOCoFD account.
+<iframe src="https://drive.google.com/file/d/1myxYVPeber7hb3lMB5hJKxx7UP2_CJ_i/preview" width="640" height="480"></iframe>
